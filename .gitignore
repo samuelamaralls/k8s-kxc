@@ -1,0 +1,2 @@
+# Ignorar arquivos e diretórios do Terraform
+.terraform
