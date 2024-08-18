@@ -3,11 +3,11 @@ output "cluster_vpc" {
 }
 
 output "private_subnet1a" {
-  value = aws_subnet.private_subnet1a
+  value = aws_subnet.private_subnet_1a
 }
 
 output "private_subnet1c" {
-  value = aws_subnet.private_subnet1c
+  value = aws_subnet.private_subnet_1c
 }
 
 output "public_subnet1a" {
